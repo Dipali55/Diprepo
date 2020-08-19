@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my file aaa
+
+aaa
+
